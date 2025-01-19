@@ -1,7 +1,7 @@
 # 基于SpringBoot+Vue的智慧动物园管理系统的设计与实现
 
  **有不会的或者不懂的都可以QQ1760272627交流一下。** 
-
+**系统演示视频** ：https://www.bilibili.com/video/BV1iFwzePE4x/?vd_source=5f273f72fd3dc593e25c33cbccdad12e
  **系统的二个主要模块：** 
 
 **用户前台：** 
