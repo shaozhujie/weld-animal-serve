@@ -14,20 +14,6 @@
 
 首页、员工管理、考勤管理、部门管理、角色管理、审核管理、动物管理、演出管理、园区管理、园区设施维修、饲养管理、行为观察管理、疫苗管理、看护管理、个人中心、票务管理、收入管理
 
- **系统截图：** 
-![image](https://github.com/user-attachments/assets/34f19328-d946-4952-aa98-1d78c1040700)
-![image](https://github.com/user-attachments/assets/0eb400cb-e51c-44af-a861-af4aef60b3a0)
-![image](https://github.com/user-attachments/assets/9d975d05-0056-4540-9fe8-2c8504f54b2a)
-![image](https://github.com/user-attachments/assets/c11bf361-6d08-4d3c-ac8c-6f310602dd84)
-![image](https://github.com/user-attachments/assets/ec4c4258-2598-48f8-a40c-b0ac5e4400a5)
-![image](https://github.com/user-attachments/assets/ad615037-bf3f-4d8e-b86e-009094b55729)
-![image](https://github.com/user-attachments/assets/df2ca63a-a69b-4e4f-82e2-4e03a8d9baad)
-![image](https://github.com/user-attachments/assets/c04fdf00-27cd-49ee-b037-cb8e13bd7e4f)
-![image](https://github.com/user-attachments/assets/80089804-f336-4819-90cd-2cf8fc767b28)
-![image](https://github.com/user-attachments/assets/0bdd5de6-d644-4478-903b-3e6e0b2689c6)
-![image](https://github.com/user-attachments/assets/261c6fdf-0570-43db-ae6e-d2a8a9d51f9f)
-
-
  **采用技术：** SpringBoot，Mybatis-plus，shiro，Vue，redis，mysql，ElementUi 
 
  **工具：** idea，vscode，navicat
