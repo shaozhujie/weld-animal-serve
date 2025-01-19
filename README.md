@@ -1,39 +1,32 @@
 # 基于SpringBoot+Vue的智慧动物园管理系统的设计与实现
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+ **有不会的或者不懂的都可以QQ1760272627交流一下。** 
 
-#### 软件架构
-软件架构说明
+ **系统的二个主要模块：** 
 
+**用户前台：** 
 
-#### 安装教程
+登录、注册、忘记密码、首页模块、查看动物信息、团队信息、查看游览路线及展演信息、预约与购票、意见建议反馈、新闻博客公告、个人中心、我的等功能
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+ **管理后台：** 
 
-#### 使用说明
+首页、员工管理、考勤管理、部门管理、角色管理、审核管理、动物管理、演出管理、园区管理、园区设施维修、饲养管理、行为观察管理、疫苗管理、看护管理、个人中心、票务管理、收入管理
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+ **系统截图：** 
+![输入图片说明](logs/521c1345-f403-4edf-91b5-a11b0a206cfe.png)
+![输入图片说明](logs/83b50707-1dad-4ecd-a68c-4065d9d3780b.png)
+![输入图片说明](logs/99b17582-54d9-417e-b7a0-c4a7e9a9caf5.png)
+![输入图片说明](logs/63175210-df72-420c-b447-47562c62448a.png)
+![输入图片说明](logs/0319930c-e91a-40ce-a4ef-d7ef79bb5b34.png)
+![输入图片说明](logs/b8f98c89-3dde-42d6-abad-68c1626cf11f.png)
+![输入图片说明](logs/e40999a5-231b-4cb4-9dfe-771e9a61a839.png)
+![输入图片说明](logs/d51a1678-c014-4616-8171-84478509e0b8.png)
+![输入图片说明](logs/5101bae4-9fdc-4d75-b374-06348b937ced.png)
+![输入图片说明](logs/dbf97f08-be81-475e-b664-da68216b6945.png)
+![输入图片说明](logs/3bbb53ca-1c85-4e2a-8b8d-a0a691c0dd7b.png)
 
-#### 参与贡献
+ **采用技术：** SpringBoot，Mybatis-plus，shiro，Vue，redis，mysql，ElementUi 
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+ **工具：** idea，vscode，navicat
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+ **有不会的或者不懂的都可以QQ1760272627交流一下。** 
